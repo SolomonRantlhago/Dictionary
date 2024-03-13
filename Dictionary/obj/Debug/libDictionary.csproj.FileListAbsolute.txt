@@ -1,0 +1,11 @@
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\Dictionary\bin\Debug\Dictionary.dll
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\Dictionary\bin\Debug\Dictionary.pdb
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\Dictionary\obj\Debug\Dictionary.dll
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\Dictionary\obj\Debug\Dictionary.pdb
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\Dictionary\obj\Debug\libDictionary.csprojAssemblyReference.cache
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\Dictionary\bin\Debug\Dictionary.dll
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\Dictionary\obj\Debug\libDictionary.csprojAssemblyReference.cache
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\Dictionary\obj\Debug\libDictionary.csproj.CoreCompileInputs.cache
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\Dictionary\obj\Debug\Dictionary.dll
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\Dictionary\obj\Debug\Dictionary.pdb

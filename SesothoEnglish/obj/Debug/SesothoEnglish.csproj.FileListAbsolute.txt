@@ -1,0 +1,23 @@
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\SesothoEnglish\obj\Debug\SesothoEnglish.csprojAssemblyReference.cache
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\SesothoEnglish\bin\Debug\SesothoEnglish.exe.config
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\SesothoEnglish\bin\Debug\SesothoEnglish.exe
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\SesothoEnglish\bin\Debug\SesothoEnglish.pdb
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\SesothoEnglish\obj\Debug\SesothoEnglish.exe
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\SesothoEnglish\obj\Debug\SesothoEnglish.pdb
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\SesothoEnglish\bin\Debug\Dictionary.dll
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\SesothoEnglish\bin\Debug\Dictionary.pdb
+D:\DropBox\CSIS\CSIS2614 (DS)\2020\Projects\Project 6 (Sorting and searching)\SesothoEnglish\obj\Debug\SesothoEnglish.csproj.CopyComplete
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\bin\Debug\SesothoEnglish.exe.config
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\bin\Debug\SesothoEnglish.exe
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\bin\Debug\SesothoEnglish.pdb
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\bin\Debug\Dictionary.dll
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\bin\Debug\Dictionary.pdb
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\obj\Debug\SesothoEnglish.csprojAssemblyReference.cache
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\obj\Debug\SesothoEnglish.csproj.CoreCompileInputs.cache
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\obj\Debug\SesothoEnglish.csproj.CopyComplete
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\obj\Debug\SesothoEnglish.exe
+C:\Users\2017496114\Desktop\DataStructures\Project6\Posssible solution\SesothoEnglish\obj\Debug\SesothoEnglish.pdb
+C:\Users\2017496114\Desktop\Posssible solution\SesothoEnglish\obj\Debug\SesothoEnglish.csprojAssemblyReference.cache
+C:\Users\2017496114\Desktop\Posssible solution\SesothoEnglish\obj\Debug\SesothoEnglish.csproj.CoreCompileInputs.cache
+C:\Users\2017496114\Desktop\Posssible solution\SesothoEnglish\obj\Debug\SesothoEnglish.exe
+C:\Users\2017496114\Desktop\Posssible solution\SesothoEnglish\obj\Debug\SesothoEnglish.pdb
